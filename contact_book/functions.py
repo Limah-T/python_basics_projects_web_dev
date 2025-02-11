@@ -1,5 +1,3 @@
-import re
-
 def save_contact_details(contacts, name, phonenumber):
     """This function is independent, it is called in name_and_phonenumber function
     the number and name has to be validated before been saved calling this function"""
